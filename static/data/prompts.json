@@ -1,0 +1,945 @@
+{
+ "airplane": {
+  "kind": "MARVEL description (ShapeNet)",
+  "blocks": [
+   [
+    "p",
+    "The 3D model is a commercial jetliner with a long, cylindrical body that tapers at both ends. It has two large wings that extend outward and curve up at the tips, with an engine on each wing. The tail has a vertical fin and two horizontal stabilizers. The nose is rounded, and the rear narrows. The model is shown against a background."
+   ]
+  ],
+  "after": "Then edited by a person in three steps: align the tail with the fuselage, add fans to the engines, add flaps."
+ },
+ "jellyfish": {
+  "kind": "Custom text prompt",
+  "blocks": [
+   [
+    "p",
+    "Create an exceptionally detailed 3D model of a majestic jellyfish gracefully drifting through open water. The model should emphasize realistic biological anatomy, continuous organic surfaces, delicate flowing structures, and intricate geometric detail. Every visible feature should be represented through geometry. The jellyfish should appear elegant, soft, and naturally fluid while remaining anatomically believable."
+   ],
+   [
+    "h",
+    "Overall Pose"
+   ],
+   [
+    "p",
+    "Capture the jellyfish in a graceful swimming pose."
+   ],
+   [
+    "li",
+    "Bell gently contracted as if completing a swimming pulse."
+   ],
+   [
+    "li",
+    "Slight forward tilt of the umbrella."
+   ],
+   [
+    "li",
+    "Oral arms flowing naturally beneath the body."
+   ],
+   [
+    "li",
+    "Long tentacles trailing downward and curving gently with the surrounding water."
+   ],
+   [
+    "li",
+    "Entire body exhibiting smooth organic motion without rigid symmetry. The silhouette should convey weightlessness and fluid movement."
+   ],
+   [
+    "h",
+    "Bell (Umbrella)"
+   ],
+   [
+    "p",
+    "Construct a large dome-shaped umbrella. Include:"
+   ],
+   [
+    "li",
+    "broad hemispherical profile"
+   ],
+   [
+    "li",
+    "gently flattened apex"
+   ],
+   [
+    "li",
+    "continuously varying curvature"
+   ],
+   [
+    "li",
+    "slightly thicker central region"
+   ],
+   [
+    "li",
+    "thinner outer margin"
+   ],
+   [
+    "li",
+    "smooth radial symmetry with subtle natural variation"
+   ],
+   [
+    "li",
+    "softly scalloped bell edge The bell should appear inflated yet flexible."
+   ],
+   [
+    "h",
+    "Bell Surface"
+   ],
+   [
+    "p",
+    "The outer bell surface should contain numerous organic geometric features including:"
+   ],
+   [
+    "li",
+    "shallow radial ridges"
+   ],
+   [
+    "li",
+    "subtle undulations"
+   ],
+   [
+    "li",
+    "fine concentric growth rings"
+   ],
+   [
+    "li",
+    "gentle surface folds"
+   ],
+   [
+    "li",
+    "tiny rounded bumps"
+   ],
+   [
+    "li",
+    "smooth thickness variation"
+   ],
+   [
+    "li",
+    "softly rounded perimeter Avoid perfectly smooth surfaces."
+   ],
+   [
+    "h",
+    "Bell Interior"
+   ],
+   [
+    "p",
+    "Model the interior anatomy beneath the umbrella. Include:"
+   ],
+   [
+    "li",
+    "central stomach cavity"
+   ],
+   [
+    "li",
+    "four large petal-shaped gonads arranged symmetrically"
+   ],
+   [
+    "li",
+    "radial canals extending toward the bell margin"
+   ],
+   [
+    "li",
+    "circular ring canal"
+   ],
+   [
+    "li",
+    "supporting internal ridges"
+   ],
+   [
+    "li",
+    "recessed central cavity These structures should remain geometrically distinct beneath the bell."
+   ],
+   [
+    "h",
+    "Bell Margin"
+   ],
+   [
+    "p",
+    "Construct a highly detailed bell margin. Include:"
+   ],
+   [
+    "li",
+    "numerous rounded scallops"
+   ],
+   [
+    "li",
+    "repeating soft lobes"
+   ],
+   [
+    "li",
+    "subtle thickness variation"
+   ],
+   [
+    "li",
+    "continuous flowing curvature Between each scallop generate tiny sensory structures naturally integrated into the bell edge."
+   ],
+   [
+    "h",
+    "Oral Arms"
+   ],
+   [
+    "p",
+    "Generate four primary oral arms extending beneath the bell. Each oral arm should include:"
+   ],
+   [
+    "li",
+    "ribbon-like structure"
+   ],
+   [
+    "li",
+    "complex folds"
+   ],
+   [
+    "li",
+    "undulating edges"
+   ],
+   [
+    "li",
+    "branching frills"
+   ],
+   [
+    "li",
+    "varying width"
+   ],
+   [
+    "li",
+    "gentle twisting"
+   ],
+   [
+    "li",
+    "layered overlapping geometry"
+   ],
+   [
+    "li",
+    "gradually tapering ends The oral arms should intertwine naturally without appearing tangled."
+   ],
+   [
+    "h",
+    "Tentacles"
+   ],
+   [
+    "p",
+    "Generate 40–50 individual tentacles distributed around the bell margin. The tentacles should exhibit significant variation. Include:"
+   ],
+   [
+    "li",
+    "varying lengths"
+   ],
+   [
+    "li",
+    "varying thicknesses"
+   ],
+   [
+    "li",
+    "gentle curling"
+   ],
+   [
+    "li",
+    "looping curves"
+   ],
+   [
+    "li",
+    "flowing S-shaped trajectories"
+   ],
+   [
+    "li",
+    "occasional spiral twists"
+   ],
+   [
+    "li",
+    "subtle branching of very fine secondary filaments"
+   ],
+   [
+    "li",
+    "gradual tapering toward the tips No two tentacles should have identical shapes. Avoid perfectly straight or uniformly curved tentacles."
+   ],
+   [
+    "h",
+    "Tentacle Attachment"
+   ],
+   [
+    "p",
+    "Each tentacle should connect naturally into the bell margin. Include:"
+   ],
+   [
+    "li",
+    "smooth attachment bases"
+   ],
+   [
+    "li",
+    "gradual thickness transition"
+   ],
+   [
+    "li",
+    "slight thickening near attachment"
+   ],
+   [
+    "li",
+    "continuous curvature Avoid floating or disconnected tentacles."
+   ],
+   [
+    "h",
+    "Internal Anatomy"
+   ],
+   [
+    "p",
+    "Model additional biological structures including:"
+   ],
+   [
+    "li",
+    "central manubrium"
+   ],
+   [
+    "li",
+    "mouth opening"
+   ],
+   [
+    "li",
+    "oral tube"
+   ],
+   [
+    "li",
+    "supporting internal membranes"
+   ],
+   [
+    "li",
+    "radial muscle bands"
+   ],
+   [
+    "li",
+    "ring muscle near bell margin"
+   ],
+   [
+    "li",
+    "attachment regions for oral arms All internal structures should integrate naturally into the umbrella."
+   ],
+   [
+    "h",
+    "Organic Surface Detail"
+   ],
+   [
+    "p",
+    "Distribute numerous fine biological details across the model including:"
+   ],
+   [
+    "li",
+    "gentle wrinkles"
+   ],
+   [
+    "li",
+    "soft tissue folds"
+   ],
+   [
+    "li",
+    "membrane ridges"
+   ],
+   [
+    "li",
+    "radial muscle lines"
+   ],
+   [
+    "li",
+    "subtle bulges"
+   ],
+   [
+    "li",
+    "natural asymmetry"
+   ],
+   [
+    "li",
+    "layered tissue transitions"
+   ],
+   [
+    "li",
+    "rounded biological protrusions"
+   ],
+   [
+    "li",
+    "smooth depressions"
+   ],
+   [
+    "li",
+    "continuous organic blending The surface should never appear mechanically manufactured."
+   ],
+   [
+    "h",
+    "Thickness Variation"
+   ],
+   [
+    "p",
+    "Model realistic thickness throughout the organism. The geometry should become:"
+   ],
+   [
+    "li",
+    "thickest near the bell center"
+   ],
+   [
+    "li",
+    "thinner toward the bell edge"
+   ],
+   [
+    "li",
+    "thicker near tentacle roots"
+   ],
+   [
+    "li",
+    "thinner toward tentacle tips"
+   ],
+   [
+    "li",
+    "variable throughout the oral arms"
+   ],
+   [
+    "li",
+    "naturally changing across folded membranes Avoid constant thickness."
+   ],
+   [
+    "h",
+    "Fine Biological Features"
+   ],
+   [
+    "p",
+    "Include numerous small anatomical structures such as:"
+   ],
+   [
+    "li",
+    "membrane folds"
+   ],
+   [
+    "li",
+    "oral arm ruffles"
+   ],
+   [
+    "li",
+    "tiny branching ridges"
+   ],
+   [
+    "li",
+    "smooth tissue overlaps"
+   ],
+   [
+    "li",
+    "shallow biological grooves"
+   ],
+   [
+    "li",
+    "radial support ridges"
+   ],
+   [
+    "li",
+    "rounded attachment nodes"
+   ],
+   [
+    "li",
+    "soft transitional folds"
+   ],
+   [
+    "li",
+    "gently layered membranes These details should be distributed throughout the model rather than concentrated in one area."
+   ],
+   [
+    "h",
+    "Edge Treatment"
+   ],
+   [
+    "p",
+    "Maintain soft organic transitions throughout. Round every transition naturally. Only the tentacle tips should terminate in fine tapered points. Avoid hard edges or sharp corners."
+   ],
+   [
+    "h",
+    "Symmetry"
+   ],
+   [
+    "p",
+    "Maintain overall radial symmetry while introducing natural biological variation. Allow subtle asymmetry in:"
+   ],
+   [
+    "li",
+    "tentacle lengths"
+   ],
+   [
+    "li",
+    "tentacle curvature"
+   ],
+   [
+    "li",
+    "oral arm folding"
+   ],
+   [
+    "li",
+    "bell undulations"
+   ],
+   [
+    "li",
+    "surface wrinkles The organism should feel naturally grown rather than mathematically perfect."
+   ],
+   [
+    "h",
+    "Geometry Quality"
+   ],
+   [
+    "p",
+    "Maintain clean, continuous watertight geometry. Avoid floating components, disconnected tentacles, self-intersections, or unrealistic proportions. Ensure every tentacle, oral arm, internal structure, and membrane is fully integrated into the organism."
+   ],
+   [
+    "h",
+    "Level of Detail"
+   ],
+   [
+    "p",
+    "The completed jellyfish should contain hundreds of individually distinguishable geometric features, including flowing membranes, intricate oral arms, numerous independently curved tentacles, complex internal anatomy, layered biological structures, and continuous smooth organic surfaces. The final result should appear as a highly detailed, anatomically believable jellyfish with exceptionally rich organic geometry suitable for close-up inspection and publication-quality visualization in a research paper teaser figure."
+   ]
+  ]
+ },
+ "keyboard": {
+  "kind": "MARVEL description (ShapeNet)",
+  "blocks": [
+   [
+    "p",
+    "The 3D model is a full-size computer keyboard with a rectangular base and rounded corners. It features a standard QWERTY key layout, including a space bar and function keys. The cable extends from one end of the base. The keys are square and slightly raised. The model is presented against a dark background."
+   ]
+  ]
+ },
+ "motherboard": {
+  "kind": "Custom text prompt",
+  "blocks": [
+   [
+    "p",
+    "Create an exceptionally detailed 3D model of a modern high-end gaming motherboard designed for a flagship desktop computer. The model should emphasize precise engineering, extremely dense component placement, and intricate hard-surface geometry. Every visible feature should be represented through geometry. The motherboard should appear highly realistic and densely populated with mechanical and electronic components suitable for close-up inspection."
+   ],
+   [
+    "h",
+    "Overall Layout"
+   ],
+   [
+    "p",
+    "Construct a full-size ATX motherboard with a balanced and organized layout. Include:"
+   ],
+   [
+    "li",
+    "rectangular PCB"
+   ],
+   [
+    "li",
+    "central CPU socket"
+   ],
+   [
+    "li",
+    "memory slots"
+   ],
+   [
+    "li",
+    "expansion slots"
+   ],
+   [
+    "li",
+    "storage connectors"
+   ],
+   [
+    "li",
+    "rear I/O section"
+   ],
+   [
+    "li",
+    "power delivery regions Every region of the board should contain meaningful geometric detail."
+   ],
+   [
+    "h",
+    "Printed Circuit Board"
+   ],
+   [
+    "p",
+    "Generate a rigid multilayer PCB. Include:"
+   ],
+   [
+    "li",
+    "beveled outer edges"
+   ],
+   [
+    "li",
+    "rounded mounting holes"
+   ],
+   [
+    "li",
+    "recessed screw holes"
+   ],
+   [
+    "li",
+    "copper trace routing"
+   ],
+   [
+    "li",
+    "plated vias"
+   ],
+   [
+    "li",
+    "densely packed solder pads Traces should branch naturally across the board and connect major components."
+   ],
+   [
+    "h",
+    "CPU Socket"
+   ],
+   [
+    "p",
+    "Construct a highly detailed processor socket. Include:"
+   ],
+   [
+    "li",
+    "square socket frame"
+   ],
+   [
+    "li",
+    "retention bracket"
+   ],
+   [
+    "li",
+    "locking lever"
+   ],
+   [
+    "li",
+    "dense contact-pin array"
+   ],
+   [
+    "li",
+    "alignment notches"
+   ],
+   [
+    "li",
+    "mounting frame The socket should be the primary focal point of the motherboard."
+   ],
+   [
+    "h",
+    "Memory Slots"
+   ],
+   [
+    "p",
+    "Generate four DIMM slots. Each slot should include:"
+   ],
+   [
+    "li",
+    "locking clips"
+   ],
+   [
+    "li",
+    "internal contact channels"
+   ],
+   [
+    "li",
+    "alignment keys"
+   ],
+   [
+    "li",
+    "reinforced mounting base Maintain accurate spacing between slots."
+   ],
+   [
+    "h",
+    "Expansion Slots"
+   ],
+   [
+    "p",
+    "Generate multiple expansion slots including:"
+   ],
+   [
+    "li",
+    "PCIe x16 slots"
+   ],
+   [
+    "li",
+    "PCIe x1 slots"
+   ],
+   [
+    "li",
+    "reinforced slot housings"
+   ],
+   [
+    "li",
+    "retention clips Arrange them using a realistic gaming motherboard layout."
+   ],
+   [
+    "h",
+    "Storage and Power"
+   ],
+   [
+    "p",
+    "Include:"
+   ],
+   [
+    "li",
+    "multiple M.2 SSD slots"
+   ],
+   [
+    "li",
+    "SATA connectors"
+   ],
+   [
+    "li",
+    "24-pin motherboard power connector"
+   ],
+   [
+    "li",
+    "dual CPU power connectors"
+   ],
+   [
+    "li",
+    "fan headers"
+   ],
+   [
+    "li",
+    "USB headers Distribute these naturally around the board."
+   ],
+   [
+    "h",
+    "Power Delivery System"
+   ],
+   [
+    "p",
+    "Generate a detailed VRM assembly surrounding the CPU. Include:"
+   ],
+   [
+    "li",
+    "heatsinks"
+   ],
+   [
+    "li",
+    "inductors"
+   ],
+   [
+    "li",
+    "MOSFET packages"
+   ],
+   [
+    "li",
+    "capacitor arrays"
+   ],
+   [
+    "li",
+    "power stages The arrangement should resemble a premium enthusiast motherboard."
+   ],
+   [
+    "h",
+    "Cooling Structures"
+   ],
+   [
+    "p",
+    "Create multiple heatsinks across the board. Include:"
+   ],
+   [
+    "li",
+    "VRM heatsinks"
+   ],
+   [
+    "li",
+    "chipset heatsink"
+   ],
+   [
+    "li",
+    "M.2 heatsinks"
+   ],
+   [
+    "li",
+    "finned cooling geometry"
+   ],
+   [
+    "li",
+    "mounting screws The heatsinks should have varied fin patterns and layered geometry."
+   ],
+   [
+    "h",
+    "Electronic Components"
+   ],
+   [
+    "p",
+    "Populate the motherboard with numerous electronic components. Include:"
+   ],
+   [
+    "li",
+    "integrated circuits"
+   ],
+   [
+    "li",
+    "chip packages"
+   ],
+   [
+    "li",
+    "crystal oscillators"
+   ],
+   [
+    "li",
+    "ceramic capacitors"
+   ],
+   [
+    "li",
+    "electrolytic capacitors"
+   ],
+   [
+    "li",
+    "inductors"
+   ],
+   [
+    "li",
+    "resistors"
+   ],
+   [
+    "li",
+    "controller chips"
+   ],
+   [
+    "li",
+    "BIOS chips Components should vary naturally in size and shape."
+   ],
+   [
+    "h",
+    "Rear I/O Section"
+   ],
+   [
+    "p",
+    "Construct a detailed rear I/O assembly. Include:"
+   ],
+   [
+    "li",
+    "USB ports"
+   ],
+   [
+    "li",
+    "Ethernet port"
+   ],
+   [
+    "li",
+    "audio connectors"
+   ],
+   [
+    "li",
+    "video outputs"
+   ],
+   [
+    "li",
+    "antenna connectors"
+   ],
+   [
+    "li",
+    "protective shielding Each connector should have realistic geometric detail."
+   ],
+   [
+    "h",
+    "Fine Geometric Detail"
+   ],
+   [
+    "p",
+    "Distribute dense engineering detail throughout the motherboard. Include: Mechanical features:"
+   ],
+   [
+    "li",
+    "screws"
+   ],
+   [
+    "li",
+    "mounting brackets"
+   ],
+   [
+    "li",
+    "heat spreaders"
+   ],
+   [
+    "li",
+    "connector housings"
+   ],
+   [
+    "li",
+    "panel seams"
+   ],
+   [
+    "li",
+    "retention clips Electronic features:"
+   ],
+   [
+    "li",
+    "dense solder pads"
+   ],
+   [
+    "li",
+    "copper trace routing"
+   ],
+   [
+    "li",
+    "plated vias"
+   ],
+   [
+    "li",
+    "surface-mounted components"
+   ],
+   [
+    "li",
+    "connector pins"
+   ],
+   [
+    "li",
+    "capacitor arrays"
+   ],
+   [
+    "li",
+    "chip packages No region of the motherboard should appear visually empty."
+   ],
+   [
+    "h",
+    "Symmetry and Precision"
+   ],
+   [
+    "p",
+    "Maintain accurate alignment of all components while preserving the organized layout typical of modern gaming motherboards. Ensure connectors, slots, and chips follow realistic engineering placement rather than random distribution."
+   ],
+   [
+    "h",
+    "Geometry Quality"
+   ],
+   [
+    "p",
+    "Maintain clean, watertight geometry with no floating components or disconnected parts. Every connector, electronic component, heatsink, screw, and mounting feature should be fully integrated into the motherboard."
+   ],
+   [
+    "h",
+    "Level of Detail"
+   ],
+   [
+    "p",
+    "The completed motherboard should contain thousands of individually distinguishable geometric features, including intricate trace routing, densely packed electronic components, precision connector assemblies, detailed heatsinks, mounting hardware, and layered engineering structures. The final result should appear as a premium enthusiast gaming motherboard with exceptional geometric complexity, precise engineering, and publication-quality 3D detail suitable for close-up inspection in a research paper teaser figure."
+   ]
+  ]
+ },
+ "sandwich": {
+  "kind": "MARVEL description (Toys4K)",
+  "blocks": [
+   [
+    "p",
+    "The 3D model is a submarine sandwich with a rectangular shape and rounded edges. It consists of two bread slices. Inside, there are layers of fresh lettuce, tomatoes, onions, cheese, and pepperoni or salami. A sauce or mayonnaise is on the top bread slice. The model is displayed against a solid background."
+   ]
+  ]
+ },
+ "octopus": {
+  "kind": "MARVEL description (Toys4K)",
+  "blocks": [
+   [
+    "p",
+    "The 3D model is a steampunk octopus with a round head and eight tentacles. The head has gears and pipes on top, and the tentacles end with suction cups. The base has a cluster of bubbles, making it look like it's underwater."
+   ]
+  ]
+ },
+ "bridge": {
+  "kind": "Image prompt",
+  "image": "static/images/inputs/bridge.webp",
+  "blocks": [
+   [
+    "p",
+    "Generated from this photo, with the instruction “Now build the surface patches for the shape shown above.”"
+   ]
+  ]
+ },
+ "battleship": {
+  "kind": "Image prompt",
+  "image": "static/images/inputs/battleship.webp",
+  "blocks": [
+   [
+    "p",
+    "Generated from this photo, with the instruction “Now build the surface patches for the shape shown above.”"
+   ]
+  ]
+ }
+}
